@@ -1,0 +1,9 @@
+.demo {
+  width: 600px;
+  height: 300px;
+  background-color: teal;
+}
+.vip {
+  font-size: 20px;
+  text-align: center;
+}
